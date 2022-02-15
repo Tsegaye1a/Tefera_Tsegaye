@@ -103,8 +103,8 @@ body {
   font-family:  'helvetica neue', Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5; }
   body#bg-img {
-    background: url(../img/background.jpg);
-    background: rgba(68, 68, 68, 0.9), url(../img/background.jpg);
+    background: url(../img/background1.jpg);
+    background: rgba(68, 68, 68, 0.9), url(../img/background1.jpg);
     background-attachment: fixed;
     background-size: cover; } 
 
@@ -149,7 +149,7 @@ main {
   main#home {
     overflow: hidden; }
     main#home h1 {
-      margin-top: 70vh; }
+      margin-top: 50vh; }
 
 .about-info {
   display: grid;
